@@ -65,6 +65,9 @@
     padding: 0.3rem;
     background-color: var(--primary);
   }
+  .footer-heading{
+    margin-bottom: -5px;
+  }
   .footer-info{
     font-size: 1.1rem;
     width: 90%;

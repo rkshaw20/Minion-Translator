@@ -1,5 +1,6 @@
 # neogcamp-banana-speak
 It is an website that translate your English sentence to a minion sentence.<br>
+It uses an api for fetching the minion language.<br>
 You can share it with your friends and have fun with it.<br>
 Tech stack used:Html, Css, and JavaScript
 
